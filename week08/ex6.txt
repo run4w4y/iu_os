@@ -1,0 +1,2 @@
+offset size is 2**13 bits, vaddress space is 2**16, we are using 13 bits for offset and 3 bits for table, so we can store 2^3 in table.
+answer: 8

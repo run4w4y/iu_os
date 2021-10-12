@@ -1,0 +1,3 @@
+Physical address: Address of the physical cell of the memory in the RAM
+Virtual address: Abstraction over one or more physical memory devices and their addresses, so the virtual address is mapped 
+    to some physical address, however they are not the same
